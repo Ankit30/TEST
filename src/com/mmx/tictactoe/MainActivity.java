@@ -11,9 +11,6 @@ import android.widget.Button;
 public class MainActivity extends Activity {
 	private Button mBtnPlay;
 
-
-
-
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
